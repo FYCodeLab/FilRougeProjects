@@ -1,4 +1,4 @@
-# Fil Rouge "3D Organoids "Project — File list
+# Fil Rouge "3D Organoids "Project — File repository
 
 This folder contains all datasets, documents, and materials related to the Fil Rouge programme at SupBiotech. 
 
