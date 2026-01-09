@@ -32,7 +32,7 @@ Correspondence: florentine.cadot-burillet@supbiotech.fr
 
 ### Supervisors
 
-Frank Yates, PhD 
+Frank Yates, PhD
 Franceline Juillard, PhD
 CellTechs team, SupBiotech School of Bioengineering  
 
